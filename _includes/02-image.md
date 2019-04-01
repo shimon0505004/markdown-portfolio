@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Shaikh Shawon Arefin Shimon](http://ece.northsouth.edu/wp-content/uploads/2018/06/Shimon.jpg)
